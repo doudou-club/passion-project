@@ -11,10 +11,10 @@ We’re a student-led group dedicated to turning our ideas into actual, real-wor
 
 ## Members & Projects
 
-| Member | Project | Goal | Status |
+| Member | Project name| Goal | Status |
 | :--- | :--- | :--- | :--- |
 | Douaa | *Project Name* | creating an app| Brainstorming |
-| Louisa | *Project Name* | creating a short film| Brainstorming |
+| Louisa | *faint* | creating a short film| Brainstorming |
 | Anais | *Project Name* | creating a short film | Brainstorming |
 | Adnane | *Project Name* | blank | Brainstorming |
 | Rian | *Project Name* | blank | Brainstorming |
